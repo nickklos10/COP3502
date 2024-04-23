@@ -36,7 +36,7 @@ Each directory within this repository is organized according to the topic it cov
 
  gcc -o program_name program_name.c
 
- Replace program_name with the name of your program file.
+ _Replace program_name with the name of your program file._
 
 4.Run the compiled program:
 
