@@ -13,17 +13,6 @@ Welcome to the repository for all programming assignments from the COP3502 class
 
 Each folder in this repository corresponds to a specific assignment or topic covered in the syllabus, aimed at building and enhancing these foundational skills.
 
-### Repository Structure
-
-Each directory within this repository is organized according to the topic it covers. Here's a breakdown of the directory structure:
-
-- Algorithms/ - Contains examples and implementations of standard algorithms introduced in the course.
-- C Programming/ - Sample programs and assignments that enhance software development skills in C.
-- Algorithm Analysis/ - Exercises and examples demonstrating the mathematical analysis of algorithms.
-- Recursion/ - Problems and solutions exploring recursion techniques.
-- Data Structures/ - Code implementing various data structures from scratch using C.
-- Search and Sort/ - Implementations of different searching and sorting algorithms.
-
 ### Compile and Run
 
 1.Open your terminal or command prompt.
