@@ -26,18 +26,18 @@ Each directory within this repository is organized according to the topic it cov
 
 ### Compile and Run
 
-1. Open your terminal or command prompt.
-2. Navigate to the directory containing the program you want to run:
+1.Open your terminal or command prompt.
+2.Navigate to the directory containing the program you want to run:
 
  cd path/to/your/program
 
-3. Compile the C program:
+3.Compile the C program:
 
  gcc -o program_name program_name.c
 
  Replace program_name with the name of your program file.
 
-4. Run the compiled program:
+4.Run the compiled program:
 
  ./program_name
 
