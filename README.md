@@ -2,7 +2,7 @@
 
 ### About This Repository
 
-Welcome to the repository for all programming assignments from the COP3502 class, Computer Science 1. This repository contains a curated collection of all the code I've written for the course, designed to demonstrate the implementation of various computer science fundamentals using C. The course primarily focuses on:
+Welcome to the repository for all programming assignments from the COP3502 class, Computer Science 1 at the University of Central Florida with professor Arup Guha. This repository contains a curated collection of all the code I've written for the course, designed to demonstrate the implementation of various computer science fundamentals using C. The course primarily focuses on:
 
 - Introducing known algorithms.
 - Developing software skills in C programming.
