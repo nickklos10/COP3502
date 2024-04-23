@@ -27,6 +27,7 @@ Each directory within this repository is organized according to the topic it cov
 ### Compile and Run
 
 1.Open your terminal or command prompt.
+
 2.Navigate to the directory containing the program you want to run:
 
  cd path/to/your/program
